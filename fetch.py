@@ -8,4 +8,11 @@ def pitch(freq):
     h = round(12*log(freq/C0))
     octave = h // 12
     n = h % 12
-    return name[n] + str(octave)
+    n=int(n)
+    print name[n]
+    print octave
+
+
+
+
+pitch(400)

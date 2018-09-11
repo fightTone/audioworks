@@ -1,8 +1,9 @@
-Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
-Bus 001 Device 002: ID 0424:9512 Standard Microsystems Corp.
-Bus 001 Device 003: ID 0424:ec00 Standard Microsystems Corp.
-Bus 001 Device 006: ID 05e3:0606 Genesys Logic, Inc. USB 2.0 Hub / D-Link DUB-H4 USB 2.0 Hub
-Bus 001 Device 009: ID 1130:f211 Tenx Technology, Inc. TP6911 Audio Headset
+# Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+# Bus 001 Device 002: ID 0424:9512 Standard Microsystems Corp.
+# Bus 001 Device 003: ID 0424:ec00 Standard Microsystems Corp.
+# Bus 001 Device 006: ID 05e3:0606 Genesys Logic, Inc. USB 2.0 Hub / D-Link DUB-H4 USB 2.0 Hub
+# Bus 001 Device 009: ID 1130:f211 Tenx Technology, Inc. TP6911 Audio Headset
+
 
 # cat d.py
 import pyaudio
